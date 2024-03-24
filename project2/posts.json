@@ -1,0 +1,109 @@
+[
+  {
+    "title": "First Post",
+    "date": "2024-03-08T12:00:00Z",
+    "postId": "pID1",
+    "author": "AuthorOne",
+    "comments": [
+      {
+        "author": "CommenterOne",
+        "date": "2024-03-08T13:00:00Z",
+        "commentId": "cID1",
+        "content": "Great first post!"
+      },
+      {
+        "author": "CommenterTwo",
+        "date": "2024-03-08T14:00:00Z",
+        "commentId": "cID2",
+        "content": "Really enjoyed this."
+      },
+      {
+        "author": "CommenterThree",
+        "date": "2024-03-08T15:00:00Z",
+        "commentId": "cID3",
+        "content": "Looking forward to more posts."
+      }
+    ],
+    "content": "This is the content of the first post."
+  },
+  {
+    "title": "Second Post",
+    "date": "2024-03-09T12:00:00Z",
+    "postId": "pID2",
+    "author": "AuthorTwo",
+    "comments": [
+      {
+        "author": "CommenterFour",
+        "date": "2024-03-09T13:00:00Z",
+        "commentId": "cID1",
+        "content": "Insightful post, thanks for sharing."
+      },
+      {
+        "author": "CommenterFive",
+        "date": "2024-03-09T14:00:00Z",
+        "commentId": "cID2",
+        "content": "Helpful and informative."
+      },
+      {
+        "author": "CommenterSix",
+        "date": "2024-03-09T15:00:00Z",
+        "commentId": "cID3",
+        "content": "I have some questions about this topic."
+      }
+    ],
+    "content": "This is the content of the second post."
+  },
+  {
+    "title": "Third Post",
+    "date": "2024-03-10T12:00:00Z",
+    "postId": "pID3",
+    "author": "AuthorThree",
+    "comments": [
+      {
+        "author": "CommenterSeven",
+        "date": "2024-03-10T13:00:00Z",
+        "commentId": "cID1",
+        "content": "Can't wait for the next post!"
+      },
+      {
+        "author": "CommenterEight",
+        "date": "2024-03-10T14:00:00Z",
+        "commentId": "cID2",
+        "content": "This has been very useful for my research."
+      },
+      {
+        "author": "CommenterNine",
+        "date": "2024-03-10T15:00:00Z",
+        "commentId": "cID3",
+        "content": "How can I contact you for more information?"
+      }
+    ],
+    "content": "This is the content of the third post."
+  },
+  {
+    "title": "Fourth Post",
+    "date": "2024-03-11T12:00:00Z",
+    "postId": "pID4",
+    "author": "AuthorFour",
+    "comments": [
+      {
+        "author": "CommenterTen",
+        "date": "2024-03-11T13:00:00Z",
+        "commentId": "cID1",
+        "content": "Brilliant post, very engaging."
+      },
+      {
+        "author": "CommenterEleven",
+        "date": "2024-03-11T14:00:00Z",
+        "commentId": "cID2",
+        "content": "This cleared up a lot of confusion for me."
+      },
+      {
+        "author": "CommenterTwelve",
+        "date": "2024-03-11T15:00:00Z",
+        "commentId": "cID3",
+        "content": "I'm sharing this with my colleagues."
+      }
+    ],
+    "content": "This is the content of the fourth post. It explores various topics of interest and provides insights that are both informative and thought-provoking. Readers are encouraged to share their thoughts and engage in a meaningful discussion."
+}
